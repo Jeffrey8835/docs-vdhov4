@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-q7zvci.koi888.cfd/sitemap.xml
